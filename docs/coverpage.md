@@ -9,4 +9,4 @@
 
 
 [GitHub](https://github.com/TimoNetwork)
-[开始](#timo（timo-net）开发者文档v10)
+[开始](#timo（timo-net）介绍)
