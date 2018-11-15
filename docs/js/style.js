@@ -4,7 +4,7 @@ $(function(){
 		var words = $(this).find("span").html();
 		if(words == " ▼"){
 			$(this).find("span").html(" ▲")
-		}else{
+		}else if(words == " ▲"){
 			$(this).find("span").html(" ▼")
 		}
 		var nextTagName = $(this).next().prop("tagName");
